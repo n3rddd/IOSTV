@@ -5,7 +5,7 @@
     "remark": "通用官采解析1，需配合网盘解析工具使用。每次消耗所有解析次数！",
     "webSite": "https://zy.hls.one/api.php/provide/vod",
     "order": "A",
-    "api": "./vod/js/cms.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/cms.js",
     "type": 101
   },
   {
@@ -15,7 +15,7 @@
     "env": "采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
     "webSite": "https://zy.hls.one/api.php/provide/vod",
     "order": "A",
-    "api": "./vod/js/cms2.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/cms2.js",
     "type": 101
   },
   {
@@ -25,7 +25,7 @@
     "env": "采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
     "webSite": "https://zy.xiaomaomi.cc/api.php/provide/vod",
     "order": "A",
-    "api": "./vod/js/cms3.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/cms3.js",
     "type": 101
   },
   {
@@ -33,7 +33,7 @@
     "version": 3,
     "webSite": "https://vip.omii.top",
     "order": "B",
-    "api": "./vod/js/aomipan.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/aomipan.js",
     "type": 101
   },
   {
@@ -41,7 +41,7 @@
     "version": 1,
     "webSite": "http://cj.jiexi.news",
     "order": "B",
-    "api": "./vod/js/baijia.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/baijia.js",
     "type": 101
   },
   {
@@ -49,7 +49,7 @@
     "version": 3,
     "webSite": "https://tv.yydsys.top",
     "order": "B",
-    "api": "./vod/js/duoduo.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/duoduo.js",
     "type": 101
   },
   {
@@ -57,7 +57,7 @@
     "version": 1,
     "webSite": "https://2xiaopan.fun",
     "order": "B",
-    "api": "./vod/js/erxiao.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/erxiao.js",
     "type": 101
   },
   {
@@ -65,7 +65,7 @@
     "version": 1,
     "webSite": "http://103.45.162.207:20720",
     "order": "B",
-    "api": "./vod/js/huban.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/huban.js",
     "type": 101
   },
   {
@@ -73,7 +73,7 @@
     "version": 3,
     "webSite": "http://feimaoai.site",
     "order": "B",
-    "api": "./vod/js/labipan.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/labipan.js",
     "type": 101
   },
   {
@@ -84,7 +84,7 @@
     "codeID": "GgryhjYVgQMDUw4f",
     "instance": "leiJing20241126",
     "order": "B",
-    "api": "./vod/js/leijing.txt",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/leijing.txt",
     "type": 100
   },
   {
@@ -92,7 +92,7 @@
     "version": 1,
     "webSite": "https://wp.0v.fit",
     "order": "B",
-    "api": "./vod/js/liuqu.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/liuqu.js",
     "type": 101
   },
   {
@@ -100,7 +100,7 @@
     "version": 2,
     "webSite": "https://666.666291.xyz",
     "order": "B",
-    "api": "./vod/js/mogg.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/mogg.js",
     "type": 101
   },
   {
@@ -108,7 +108,7 @@
     "version": 3,
     "webSite": "https://woog.nxog.eu.org",
     "order": "B",
-    "api": "./vod/js/ouge.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/ouge.js",
     "type": 101
   },
   {
@@ -116,7 +116,7 @@
     "version": 1,
     "webSite": "https://revohd.com",
     "order": "B",
-    "api": "./vod/js/qingying.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/qingying.js",
     "type": 101
   },
   {
@@ -124,7 +124,7 @@
     "version": 1,
     "webSite": "http://1.95.79.193/",
     "order": "B",
-    "api": "./vod/js/shandian.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/shandian.js",
     "type": 101
   },
   {
@@ -132,7 +132,7 @@
     "version": 3,
     "webSite": "http://wogg.xxooo.cf",
     "order": "B",
-    "api": "./vod/js/wobg.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/wobg.js",
     "type": 101
   },
   {
@@ -140,7 +140,7 @@
     "version": 1,
     "webSite": "http://www.xn--ghqy10g1w0a.xyz/",
     "order": "B",
-    "api": "./vod/js/xiafan.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/xiafan.js",
     "type": 101
   },
   {
@@ -148,7 +148,7 @@
     "version": 3,
     "webSite": "https://xiaomiai.site",
     "order": "B",
-    "api": "./vod/js/xiaomi.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/xiaomi.js",
     "type": 101
   },
   {
@@ -156,7 +156,7 @@
     "version": 3,
     "webSite": "https://mihdr.top",
     "order": "B",
-    "api": "./vod/js/zhizhen.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/zhizhen.js",
     "type": 101
   },
   {
@@ -167,7 +167,7 @@
     "codeID": "LO5aQSJYBZLrRD1g",
     "instance": "funletu20241124",
     "order": "B",
-    "api": "./vod/js/funletu.txt",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/funletu.txt",
     "type": 100
   },
   {
@@ -176,7 +176,7 @@
     "remark": "格式 频道名称1@频道id1&频道名称2@频道id2",
     "webSite": "123资源@zyfb123&天翼日更@tianyirigeng&木偶UC@ucpanpan&夸克电影@alyp_4K_Movies&夸克剧集@alyp_TV&夸克动漫@alyp_Animation",
     "order": "B",
-    "api": "./vod/js/tgs.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/tgs.js",
     "type": 101
   },
   {
@@ -187,7 +187,7 @@
     "codeID": "DU9z425w42hk9B8l",
     "instance": "tianyiso20241129",
     "order": "B",
-    "api": "./vod/js/tianyiso.txt",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/tianyiso.txt",
     "type": 100
   },
   {
@@ -195,7 +195,7 @@
     "version": 1,
     "webSite": "http://149.88.87.18:6688",
     "order": "B",
-    "api": "./vod/js/dawanou.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/dawanou.js",
     "type": 101
   },
   {
@@ -203,7 +203,7 @@
     "version": 1,
     "webSite": "https://www.nanf.cc",
     "order": "B",
-    "api": "./vod/js/nanfdj.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/nanfdj.js",
     "type": 101
   },
   {
@@ -212,7 +212,7 @@
     "webSite": "https://res.yunpan.win",
     "instance": "resYunPan20241120",
     "order": "B",
-    "api": "./vod/js/resyunpan.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/resyunpan.js",
     "type": 100
   },
   {
@@ -223,7 +223,7 @@
     "codeID": "UM9WK6x3sPm3mbUgJB2dJNs59vTyNynm",
     "instance": "leiJing20241126",
     "order": "B",
-    "api": "./vod/js/pansearch.txt",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/pansearch.txt",
     "type": 101
   },
   {
@@ -232,7 +232,7 @@
     "webSite": "https://saohuo.tv",
     "instance": "saohuo20240623",
     "order": "C",
-    "api": "./vod/js/saohuo.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/saohuo.js",
     "type": 100
   },
   {
@@ -240,7 +240,7 @@
     "version": 2,
     "webSite": "https://www.dandanju.tv",
     "order": "C",
-    "api": "./vod/js/dandanju.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/dandanju.js",
     "type": 101
   },
   {
@@ -251,7 +251,7 @@
     "webSite": "https://jocy.app",
     "codeID": "cm7OBqdp0KChaJ7bg2OhuAyTgt8ufeyJ",
     "order": "C",
-    "api": "./vod/js/jocy.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/jocy.js",
     "type": 101
   },
   {
@@ -260,7 +260,7 @@
     "webSite": "https://www.subaibaiys.com",
     "instance": "sbb20240624",
     "order": "C",
-    "api": "./vod/js/subaibai.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/subaibai.js",
     "type": 100
   },
   {
@@ -268,7 +268,7 @@
     "version": 1,
     "webSite": "https://www.xlys01.com",
     "order": "C",
-    "api": "./vod/js/biliys.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/biliys.js",
     "type": 101
   },
   {
@@ -276,7 +276,7 @@
     "version": 2,
     "webSite": "https://www.bttwoo.com",
     "order": "C",
-    "api": "./vod/js/bttwo.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/bttwo.js",
     "type": 101
   },
   {
@@ -284,7 +284,7 @@
     "version": 2,
     "webSite": "https://www.czzy77.com",
     "order": "C",
-    "api": "./vod/js/changZhang20240614.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/changZhang20240614.js",
     "type": 101
   },
   {
@@ -293,7 +293,7 @@
     "webSite": "https://duanjutt.tv",
     "instance": "duanjutt20240922",
     "order": "C",
-    "api": "./vod/js/duanjutt.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/duanjutt.js",
     "type": 100
   },
   {
@@ -302,7 +302,7 @@
     "webSite": "https://www.hanjukankan.com",
     "instance": "hjkk20240624",
     "order": "C",
-    "api": "./vod/js/hjkk.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/hjkk.js",
     "type": 100
   },
   {
@@ -311,7 +311,7 @@
     "webSite": "https://www.ghw9zwp5.com",
     "instance": "jpyy20240716",
     "order": "C",
-    "api": "./vod/js/jpyy.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/jpyy.js",
     "type": 100
   },
   {
@@ -320,7 +320,7 @@
     "webSite": "https://apk-lb-json.fodexin.com",
     "instance": "laobai20240831",
     "order": "C",
-    "api": "./vod/js/laobai.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/laobai.js",
     "type": 100
   },
   {
@@ -329,7 +329,7 @@
     "webSite": "https://www.olevod.tv",
     "instance": "olevod20240620",
     "order": "C",
-    "api": "./vod/js/olevod.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/olevod.js",
     "type": 100
   },
   {
@@ -338,7 +338,7 @@
     "webSite": "http://op.ysdqjs.cn",
     "instance": "tiantian20240629",
     "order": "C",
-    "api": "./vod/js/tiantian.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/tiantian.js",
     "type": 100
   },
   {
@@ -347,7 +347,7 @@
     "webSite": "https://www.zxzja.com",
     "instance": "zxzj20240620",
     "order": "C",
-    "api": "./vod/js/zxzj.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/zxzj.js",
     "type": 100
   },
   {
@@ -356,7 +356,7 @@
     "webSite": "https://4k-av.com",
     "instance": "www4kav20240705",
     "order": "C",
-    "api": "./vod/js/4kav.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/4kav.js",
     "type": 100
   },
   {
@@ -367,7 +367,7 @@
     "codeID": "ra5Z3wtXKshzSMK2",
     "instance": "gzapp20241001",
     "order": "C",
-    "api": "./vod/js/gzapp.txt",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/gzapp.txt",
     "type": 100
   },
   {
@@ -376,7 +376,7 @@
     "webSite": "https://api.zaqohu.com",
     "instance": "gzys20240822",
     "order": "C",
-    "api": "./vod/js/gzys.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/gzys.js",
     "type": 100
   },
   {
@@ -384,7 +384,7 @@
     "version": 1,
     "webSite": "https://eacg1.com",
     "order": "D",
-    "api": "./vod/js/eacg.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/eacg.js",
     "type": 101
   },
   {
@@ -392,7 +392,7 @@
     "version": 1,
     "webSite": "http://www.mifun.tw",
     "order": "D",
-    "api": "./vod/js/mifun.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/mifun.js",
     "type": 101
   },
   {
@@ -400,7 +400,7 @@
     "version": 1,
     "webSite": "https://www.clicli.pro",
     "order": "D",
-    "api": "./vod/js/clicli.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/clicli.js",
     "type": 101
   },
   {
@@ -408,7 +408,7 @@
     "version": 1,
     "webSite": "https://eacg1.com",
     "order": "D",
-    "api": "./vod/js/eacg2.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/eacg2.js",
     "type": 101
   },
   {
@@ -416,21 +416,21 @@
     "version": 1,
     "webSite": "https://anime.girigirilove.com",
     "order": "D",
-    "api": "./vod/js/aggl.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/aggl.js",
     "type": 101
   },
   {
-    "api": "./https://cjhwba.com/api.php/provide/vod/",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/https://cjhwba.com/api.php/provide/vod/",
     "name": "雷蒙影视 | 🚀华为吧[采集]",
     "type": 0
   },
   {
-    "api": "./https://cj.rycjapi.com/api.php/provide/vod",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/https://cj.rycjapi.com/api.php/provide/vod",
     "name": "雷蒙影视 | 🚀如意[采集]",
     "type": 0
   },
   {
-    "api": "./https://json.heimuer.xyz/api.php/provide/vod/",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/https://json.heimuer.xyz/api.php/provide/vod/",
     "name": "雷蒙影视 | 🚀黑木耳[采集]",
     "type": 0
   },
@@ -439,7 +439,7 @@
     "version": 20,
     "remark": "iOS14 以上版本可用,App v1.6.54 及以上版本可用",
     "env": "UCCookie##用于播放UC网盘视频&&UC_UT##播放视频自动获取，不可用时点击删除重新获取 cookie ，再重启app&&夸克Cookie##用于播放Quark网盘视频&&阿里Token##用于播放阿里网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称&&123网盘账号##用于播放123网盘视频&&123网盘密码##用于播放123网盘视频&&天翼网盘账号##用于播放天翼网盘视频&&天翼网盘密码##用于播放天翼网盘视频&&采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
-    "api": "./panTools/js/panTools2.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/panTools/js/panTools2.js",
     "type": 300
   },
   {
@@ -447,7 +447,7 @@
     "version": 3,
     "remark": "iOS14 以上版本可用",
     "codeID": "N7WRmLmOdB8FSh4M",
-    "api": "./recommend/js/douban.txt",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/recommend/js/douban.txt",
     "type": 200
   },
   {
@@ -456,31 +456,31 @@
     "remark": "搜不到就算了，不要那么执着",
     "codeID": "HyplMQ00pLZipW1jy1e9qTsjZbznKjq2",
     "order": "A01",
-    "api": "./danMu/js/danMu2.txt",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/danMu/js/danMu2.txt",
     "type": 400
   },
   {
     "name": "雷蒙影视 | 📜弹幕扩展",
     "version": 1,
     "order": "A02",
-    "api": "./danMu/js/danMu.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/danMu/js/danMu.js",
     "type": 400
   },
   {
     "name": "雷蒙影视 | 📺电视直播",
-    "api": "./https://tv.iill.top/m3u/Gather",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/https://tv.iill.top/m3u/Gather",
     "type": 10,
     "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
   },
   {
     "name": "雷蒙影视 | 🎥网络直播",
-    "api": "./https://tv.iill.top/m3u/Live",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/https://tv.iill.top/m3u/Live",
     "type": 10,
     "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
   },
   {
     "name": "雷蒙影视 | 🚴‍♂️体育直播",
-    "api": "./https://tv.iill.top/m3u/Sport",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/https://tv.iill.top/m3u/Sport",
     "type": 10,
     "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
   },
@@ -490,7 +490,7 @@
     "webSite": "https://madou.club",
     "instance": "madou20240626",
     "order": "E",
-    "api": "./vod/js/madou.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/madou.js",
     "type": 100
   },
   {
@@ -499,7 +499,7 @@
     "webSite": "https://hongkongdollvideo.com",
     "instance": "hkdoll20240705",
     "order": "E",
-    "api": "./vod/js/hkdoll.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/hkdoll.js",
     "type": 100
   },
   {
@@ -507,7 +507,7 @@
     "version": 3,
     "webSite": "https://041.bndmpsjx.com",
     "order": "E",
-    "api": "./vod/js/91jav.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/91jav.js",
     "type": 101
   },
   {
@@ -516,7 +516,7 @@
     "webSite": "https://jable.tv",
     "instance": "jable20240831",
     "order": "E",
-    "api": "./vod/js/jable.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/jable.js",
     "type": 100
   },
   {
@@ -525,7 +525,7 @@
     "webSite": "https://missav.ai",
     "instance": "missav20240627",
     "order": "E",
-    "api": "./vod/js/missav.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/missav.js",
     "type": 100
   },
   {
@@ -534,7 +534,7 @@
     "webSite": "https://www.netflav.com",
     "instance": "netflav20240905",
     "order": "E",
-    "api": "./vod/js/netflav.js",
+    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/netflav.js",
     "type": 100
   }
 ]
