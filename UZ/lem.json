@@ -153,17 +153,17 @@
     "type": 100
   },
   {
-    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/https://cjhwba.com/api.php/provide/vod/",
+    "api": "https://cjhwba.com/api.php/provide/vod/",
     "name": "雷蒙影视 | 🚀华为吧[采集]",
     "type": 0
   },
   {
-    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/https://cj.rycjapi.com/api.php/provide/vod",
+    "api": "https://cj.rycjapi.com/api.php/provide/vod",
     "name": "雷蒙影视 | 🚀如意[采集]",
     "type": 0
   },
   {
-    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/https://json.heimuer.xyz/api.php/provide/vod/",
+    "api": "https://json.heimuer.xyz/api.php/provide/vod/",
     "name": "雷蒙影视 | 🚀黑木耳[采集]",
     "type": 0
   },
@@ -468,19 +468,19 @@
   },
   {
     "name": "雷蒙影视 | 📺电视直播",
-    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/https://tv.iill.top/m3u/Gather",
+    "api": "https://tv.iill.top/m3u/Gather",
     "type": 10,
     "remark": "雷蒙直播"
   },
   {
     "name": "雷蒙影视 | 🎥网络直播",
-    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/https://tv.iill.top/m3u/Live",
+    "api": "https://tv.iill.top/m3u/Live",
     "type": 10,
     "remark": "雷蒙直播"
   },
   {
     "name": "雷蒙影视 | 🚴‍♂️体育直播",
-    "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/https://tv.iill.top/m3u/Sport",
+    "api": "https://tv.iill.top/m3u/Sport",
     "type": 10,
     "remark": "雷蒙直播"
   },
