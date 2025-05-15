@@ -4,7 +4,7 @@
     "version": 3,
     "remark": "通用官采解析1，需配合网盘解析工具使用。每次消耗所有解析次数！",
     "webSite": "https://zy.hls.one/api.php/provide/vod",
-    "order": "A",
+    "order": "B",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/cms.js",
     "type": 101
   },
@@ -14,7 +14,7 @@
     "remark": "通用官采解析2，需配合网盘解析工具使用。在环境变量配置 采集解析地址。",
     "env": "采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
     "webSite": "https://zy.hls.one/api.php/provide/vod",
-    "order": "A",
+    "order": "B",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/cms2.js",
     "type": 101
   },
@@ -24,7 +24,7 @@
     "remark": "通用官采解析2，需配合网盘解析工具使用。在环境变量配置 采集解析地址。",
     "env": "采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
     "webSite": "https://zy.xiaomaomi.cc/api.php/provide/vod",
-    "order": "A",
+    "order": "B",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/cms3.js",
     "type": 101
   },
@@ -32,7 +32,7 @@
     "name": "雷蒙影视 | 💿奥秘[网盘]",
     "version": 3,
     "webSite": "https://vip.omii.top",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/aomipan.js",
     "type": 101
   },
@@ -40,7 +40,7 @@
     "name": "雷蒙影视 | 💿百家[网盘]",
     "version": 1,
     "webSite": "http://cj.jiexi.news",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/baijia.js",
     "type": 101
   },
@@ -48,7 +48,7 @@
     "name": "雷蒙影视 | 💿多多[网盘]",
     "version": 3,
     "webSite": "https://tv.yydsys.top",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/duoduo.js",
     "type": 101
   },
@@ -56,7 +56,7 @@
     "name": "雷蒙影视 | 💿二小[网盘]",
     "version": 1,
     "webSite": "https://2xiaopan.fun",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/erxiao.js",
     "type": 101
   },
@@ -64,7 +64,7 @@
     "name": "雷蒙影视 | 💿虎斑[网盘]",
     "version": 1,
     "webSite": "http://103.45.162.207:20720",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/huban.js",
     "type": 101
   },
@@ -72,7 +72,7 @@
     "name": "雷蒙影视 | 💿蜡笔[网盘]",
     "version": 3,
     "webSite": "http://feimaoai.site",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/labipan.js",
     "type": 101
   },
@@ -83,7 +83,7 @@
     "webSite": "https://www.leijing.xyz",
     "codeID": "GgryhjYVgQMDUw4f",
     "instance": "leiJing20241126",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/leijing.txt",
     "type": 100
   },
@@ -91,7 +91,7 @@
     "name": "雷蒙影视 | 💿六趣[网盘]",
     "version": 1,
     "webSite": "https://wp.0v.fit",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/liuqu.js",
     "type": 101
   },
@@ -99,7 +99,7 @@
     "name": "雷蒙影视 | 💿木偶[网盘]",
     "version": 2,
     "webSite": "https://666.666291.xyz",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/mogg.js",
     "type": 101
   },
@@ -107,7 +107,7 @@
     "name": "雷蒙影视 | 💿欧歌[网盘]",
     "version": 3,
     "webSite": "https://woog.nxog.eu.org",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/ouge.js",
     "type": 101
   },
@@ -115,7 +115,7 @@
     "name": "雷蒙影视 | 💿清影[网盘]",
     "version": 1,
     "webSite": "https://revohd.com",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/qingying.js",
     "type": 101
   },
@@ -123,7 +123,7 @@
     "name": "雷蒙影视 | 💿闪电[网盘]",
     "version": 1,
     "webSite": "http://1.95.79.193/",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/shandian.js",
     "type": 101
   },
@@ -131,7 +131,7 @@
     "name": "雷蒙影视 | 💿玩偶[网盘]",
     "version": 3,
     "webSite": "http://wogg.xxooo.cf",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/wobg.js",
     "type": 101
   },
@@ -139,7 +139,7 @@
     "name": "雷蒙影视 | 💿下饭[网盘]",
     "version": 1,
     "webSite": "http://www.xn--ghqy10g1w0a.xyz/",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/xiafan.js",
     "type": 101
   },
@@ -147,7 +147,7 @@
     "name": "雷蒙影视 | 💿小米[网盘]",
     "version": 3,
     "webSite": "https://xiaomiai.site",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/xiaomi.js",
     "type": 101
   },
@@ -155,7 +155,7 @@
     "name": "雷蒙影视 | 💿至臻[网盘]",
     "version": 3,
     "webSite": "https://mihdr.top",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/zhizhen.js",
     "type": 101
   },
@@ -166,7 +166,7 @@
     "webSite": "https://pan.funletu.com",
     "codeID": "LO5aQSJYBZLrRD1g",
     "instance": "funletu20241124",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/funletu.txt",
     "type": 100
   },
@@ -175,7 +175,7 @@
     "version": 1,
     "remark": "格式 频道名称1@频道id1&频道名称2@频道id2",
     "webSite": "123资源@zyfb123&天翼日更@tianyirigeng&木偶UC@ucpanpan&夸克电影@alyp_4K_Movies&夸克剧集@alyp_TV&夸克动漫@alyp_Animation",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/tgs.js",
     "type": 101
   },
@@ -186,7 +186,7 @@
     "webSite": "https://www.tianyiso.com",
     "codeID": "DU9z425w42hk9B8l",
     "instance": "tianyiso20241129",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/tianyiso.txt",
     "type": 100
   },
@@ -194,7 +194,7 @@
     "name": "雷蒙影视 | 💿大玩偶[网盘]",
     "version": 1,
     "webSite": "http://149.88.87.18:6688",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/dawanou.js",
     "type": 101
   },
@@ -202,7 +202,7 @@
     "name": "雷蒙影视 | 💿南风短剧[网盘]",
     "version": 1,
     "webSite": "https://www.nanf.cc",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/nanfdj.js",
     "type": 101
   },
@@ -211,7 +211,7 @@
     "version": 1,
     "webSite": "https://res.yunpan.win",
     "instance": "resYunPan20241120",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/resyunpan.js",
     "type": 100
   },
@@ -222,7 +222,7 @@
     "webSite": "https://www.pansearch.me",
     "codeID": "UM9WK6x3sPm3mbUgJB2dJNs59vTyNynm",
     "instance": "leiJing20241126",
-    "order": "B",
+    "order": "C",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/pansearch.txt",
     "type": 101
   },
@@ -231,7 +231,7 @@
     "version": 2,
     "webSite": "https://saohuo.tv",
     "instance": "saohuo20240623",
-    "order": "C",
+    "order": "A",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/saohuo.js",
     "type": 100
   },
@@ -239,7 +239,7 @@
     "name": "雷蒙影视 | 🏆蛋蛋剧[直连]",
     "version": 2,
     "webSite": "https://www.dandanju.tv",
-    "order": "C",
+    "order": "A",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/dandanju.js",
     "type": 101
   },
@@ -250,7 +250,7 @@
     "env": "囧次元更新网址##填写1,然后在首页源列表重新切换到囧次元,可更新手动更新网址",
     "webSite": "https://jocy.app",
     "codeID": "cm7OBqdp0KChaJ7bg2OhuAyTgt8ufeyJ",
-    "order": "C",
+    "order": "A",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/jocy.js",
     "type": 101
   },
@@ -259,7 +259,7 @@
     "version": 2,
     "webSite": "https://www.subaibaiys.com",
     "instance": "sbb20240624",
-    "order": "C",
+    "order": "A",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/subaibai.js",
     "type": 100
   },
@@ -267,7 +267,7 @@
     "name": "雷蒙影视 | 🏆修罗影视[直连]",
     "version": 1,
     "webSite": "https://www.xlys01.com",
-    "order": "C",
+    "order": "A",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/biliys.js",
     "type": 101
   },
@@ -275,7 +275,7 @@
     "name": "雷蒙影视 | 🏆两个BT[直连]",
     "version": 2,
     "webSite": "https://www.bttwoo.com",
-    "order": "C",
+    "order": "A",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/bttwo.js",
     "type": 101
   },
@@ -283,7 +283,7 @@
     "name": "雷蒙影视 | 🏆厂长影视[直连]",
     "version": 2,
     "webSite": "https://www.czzy77.com",
-    "order": "C",
+    "order": "A",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/changZhang20240614.js",
     "type": 101
   },
@@ -292,7 +292,7 @@
     "version": 2,
     "webSite": "https://duanjutt.tv",
     "instance": "duanjutt20240922",
-    "order": "C",
+    "order": "A",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/duanjutt.js",
     "type": 100
   },
@@ -301,7 +301,7 @@
     "version": 2,
     "webSite": "https://www.hanjukankan.com",
     "instance": "hjkk20240624",
-    "order": "C",
+    "order": "A",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/hjkk.js",
     "type": 100
   },
@@ -310,7 +310,7 @@
     "version": 2,
     "webSite": "https://www.ghw9zwp5.com",
     "instance": "jpyy20240716",
-    "order": "C",
+    "order": "A",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/jpyy.js",
     "type": 100
   },
@@ -319,7 +319,7 @@
     "version": 2,
     "webSite": "https://apk-lb-json.fodexin.com",
     "instance": "laobai20240831",
-    "order": "C",
+    "order": "A",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/laobai.js",
     "type": 100
   },
@@ -328,7 +328,7 @@
     "version": 2,
     "webSite": "https://www.olevod.tv",
     "instance": "olevod20240620",
-    "order": "C",
+    "order": "A",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/olevod.js",
     "type": 100
   },
@@ -337,7 +337,7 @@
     "version": 2,
     "webSite": "http://op.ysdqjs.cn",
     "instance": "tiantian20240629",
-    "order": "C",
+    "order": "A",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/tiantian.js",
     "type": 100
   },
@@ -346,7 +346,7 @@
     "version": 2,
     "webSite": "https://www.zxzja.com",
     "instance": "zxzj20240620",
-    "order": "C",
+    "order": "A",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/zxzj.js",
     "type": 100
   },
@@ -355,7 +355,7 @@
     "version": 2,
     "webSite": "https://4k-av.com",
     "instance": "www4kav20240705",
-    "order": "C",
+    "order": "A",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/4kav.js",
     "type": 100
   },
@@ -366,7 +366,7 @@
     "webSite": "https://api.9cec79d.com",
     "codeID": "ra5Z3wtXKshzSMK2",
     "instance": "gzapp20241001",
-    "order": "C",
+    "order": "A",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/gzapp.txt",
     "type": 100
   },
@@ -375,7 +375,7 @@
     "version": 2,
     "webSite": "https://api.zaqohu.com",
     "instance": "gzys20240822",
-    "order": "C",
+    "order": "A",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/vod/js/gzys.js",
     "type": 100
   },
@@ -470,19 +470,19 @@
     "name": "雷蒙影视 | 📺电视直播",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/https://tv.iill.top/m3u/Gather",
     "type": 10,
-    "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+    "remark": "雷蒙直播"
   },
   {
     "name": "雷蒙影视 | 🎥网络直播",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/https://tv.iill.top/m3u/Live",
     "type": 10,
-    "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+    "remark": "雷蒙直播"
   },
   {
     "name": "雷蒙影视 | 🚴‍♂️体育直播",
     "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/UZ/https://tv.iill.top/m3u/Sport",
     "type": 10,
-    "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+    "remark": "雷蒙直播"
   },
   {
     "name": "雷蒙影视 | 🔞麻豆",
