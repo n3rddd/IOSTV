@@ -168,6 +168,26 @@
     "type": 0
   },
   {
+    "api": "https://360zy.com/api.php/provide/vod",
+    "name": "雷蒙影视 | 🚀360[采集]",
+    "type": 0
+  },
+  {
+    "api": "https://app.bfzyapi.com/api.php/provide/vod/",
+    "name": "雷蒙影视 | 🚀暴风[采集]",
+    "type": 0
+  },
+  {
+    "api": "http://cj.lziapi.com/api.php/provide/vod/",
+    "name": "雷蒙影视 | 🚀量子[采集]",
+    "type": 0
+  },
+  {
+    "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
+    "name": "雷蒙影视 | 🚀电影天堂[采集]",
+    "type": 0
+  },
+  {
     "name": "雷蒙影视 | 🔨虾米1[解析]",
     "version": 3,
     "remark": "通用官采解析1，需配合网盘解析工具使用。每次消耗所有解析次数！",
