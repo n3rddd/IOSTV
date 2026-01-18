@@ -1,11 +1,6 @@
 {
   "sites": [
     {
-	"name": "GD-Studio",
-	"key": "GD",
-	"ext": "https://raw.githubusercontent.com/n3rddd/IOSTV/refs/heads/main/XPTV/GD_Studio.js"
-    },
-    {
       "name": "360|点播",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod/"
