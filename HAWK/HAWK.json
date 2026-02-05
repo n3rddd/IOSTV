@@ -1,9 +1,23 @@
 [
+    
+{
+    "id": "music",
+    "name": "Music",
+    "desc": "Free Music",
+    "type": "music",
+    "icon": "https://cdn.9228.eu/music.png",
+    "author": "purkylin",
+    "version": "0.0.1",
+    "update_time": "2025-11-12T10:45:00Z",
+    "endpoint": "https://raw.githubusercontent.com/maotoumao/MusicFreePlugins/refs/heads/master/plugins.json"
+},
+
     {
         "id": "yt-dlp",
         "name": "yt-dlp",
         "desc": "A feature-rich command-line audio/video downloader",
         "type": "yt-dlp",
+		"icon": "https://cdn.9228.eu/youtube.png",
         "rules": [
             "https://.*.youtube.com/watch\\?v=([\\w\\-]+).*",
             "https://x.com/\\w+/status/(\\d+).*",
@@ -11,81 +25,364 @@
         ],
         "cache": 21600,
         "author": "purkylin",
-        "version": "0.0.2",
-        "update_time": "2025-01-13T12:41:00Z",
-        "endpoint": "https://9228.eu/youtube/info"
+        "version": "0.0.3",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://api.9228.eu/ytdlp/"
     },
     {
         "id": "vod1",
-        "name": "CMS",
-        "desc": "VOD",
+        "name": "CMS TV",
+        "desc": "TV",
         "type": "vod",
+		"icon": "https://cdn.9228.eu/vod.png?v=1",
         "cache": 21600,
         "author": "purkylin",
-        "version": "0.0.2",
-        "update_time": "2025-03-29T16:37:00Z",
-        "endpoint": "https://github.com/fangkuia/XPTV/raw/refs/heads/main/CMS/XPTV.json"
+        "version": "0.0.5",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@refs/heads/dev/CMS/XPTV.json"
     },
     {
         "id": "vod2",
-        "name": "VOD",
-        "desc": "VOD",
+        "name": "VOD TV",
+        "desc": "TV",
         "type": "vod",
+		"icon": "https://cdn.9228.eu/vod.png?v=1",
         "cache": 21600,
         "author": "purkylin",
-        "version": "0.0.3",
-        "update_time": "2025-05-08T16:37:00Z",
-        "endpoint": "https://github.com/purkylin/XPTV/raw/refs/heads/dev/Patch/vod.json"
+        "version": "0.0.5",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@refs/heads/dev/Patch/vod.json"
     },
     {
         "id": "vod3",
         "name": "CMS AV",
         "desc": "AV",
         "type": "vod",
+		"icon": "https://cdn.9228.eu/vod.png?v=1",
         "cache": 21600,
         "author": "purkylin",
-        "version": "0.0.3",
-        "update_time": "2025-03-30T16:37:00Z",
+        "version": "0.0.5",
+        "update_time": "2025-07-11T10:45:00Z",
         "adult": true,
-        "endpoint": "https://github.com/fangkuia/XPTV/raw/refs/heads/main/CMS/XPAV.json"
+        "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@refs/heads/main/CMS/XPAV.json"
     },
     {
         "id": "vod4",
         "name": "VOD AV",
         "desc": "AV",
         "type": "vod",
+		"icon": "https://cdn.9228.eu/vod.png?v=1",
         "cache": 21600,
         "author": "purkylin",
-        "version": "0.0.3",
-        "update_time": "2025-03-30T16:37:00Z",
+        "version": "0.0.5",
+        "update_time": "2025-07-11T10:45:00Z",
         "adult": true,
-        "endpoint": "https://github.com/fangkuia/XPTV/raw/refs/heads/main/VOD/XPAV.json"
+        "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@refs/heads/main/VOD/XPAV.json"
+    },
+	{
+        "id": "vod5",
+        "name": "VOD LIVE",
+        "desc": "LIVE",
+        "type": "vod",
+		"icon": "https://cdn.9228.eu/vod.png?v=1",
+        "cache": 21600,
+        "author": "purkylin",
+        "version": "0.0.5",
+        "update_time": "2025-07-11T10:45:00Z",
+        "adult": true,
+        "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@refs/heads/main/VOD/nmlive.json"
     },
     {
-        "id": "vod5",
+        "id": "vod_rebbit",
+        "name": "Rebbit",
+        "desc": "Rebbit VOD",
+        "type": "vod",
+        "icon": "https://cdn.9228.eu/vod.png?v=1",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-11-22T10:45:00Z",
+        "endpoint": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/main/all.json"
+    },
+    {
+        "id": "vod6",
         "name": "PAN",
         "desc": "网盘",
         "type": "vod",
+		"icon": "https://cdn.9228.eu/vod.png?v=1",
         "cache": 21600,
         "author": "purkylin",
-        "version": "0.0.3",
-        "update_time": "2025-03-30T16:37:00Z",
+        "version": "0.0.5",
+        "update_time": "2025-07-11T10:45:00Z",
         "adult": false,
-        "endpoint": "https://github.com/purkylin/XPTV/raw/refs/heads/dev/VOD/PAN.json"
+        "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@dev/VOD/PAN.json"
     },
     {
         "id": "quark",
         "name": "quark",
         "desc": "夸克网盘",
         "type": "pan",
+		"icon": "https://cdn.9228.eu/quark.png",
         "rules": [
             "https://pan.quark.cn/.*"
         ],
         "cache": 21600,
         "author": "purkylin",
-        "version": "0.0.1",
-        "update_time": "2025-05-28T16:37:00Z",
+        "version": "0.0.5",
+        "update_time": "2025-07-11T10:45:00Z",
         "adult": false,
-        "endpoint": "https://github.com/purkylin/XPTV/raw/refs/heads/dev/Patch/quark.js"
+        "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@dev/Patch/quark.js"
+    },
+    {
+        "id": "trending",
+        "name": "Trending",
+        "desc": "TMDB Trending",
+        "type": "trending",
+		"icon": "https://cdn.9228.eu/hot.png",
+        "rules": [],
+        "cache": 21600,
+        "author": "purkylin",
+        "version": "0.0.5",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": null
+    },
+    {
+        "id": "douban",
+        "name": "豆瓣",
+        "desc": "豆瓣",
+        "type": "hot",
+		"icon": "https://cdn.9228.eu/douban.png",
+        "author": "purkylin",
+        "version": "0.0.5",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@dev/Patch/douban.js"
+    },
+    {
+        "id": "iptv.radio",
+        "name": "电台广播",
+        "desc": "电台广播",
+        "type": "iptv",
+		"icon": "https://cdn.9228.eu/tv.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://cdn.jsdelivr.net/gh/YueChan/Live@refs/heads/main/Radio.m3u"
+    },
+    {
+        "id": "iptv.aptv",
+        "name": "APTV",
+        "desc": "IPTV",
+        "type": "iptv",
+        "icon": "https://cdn.9228.eu/tv.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+	    "ua": "AptvPlayer/1.3.8",
+        "endpoint": "https://bit.ly/iptv-aptv"
+    },
+    {
+        "id": "iptv.laobai",
+        "name": "老白直播",
+        "desc": "IPTV",
+        "type": "iptv",
+        "icon": "https://cdn.9228.eu/tv.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://iptv.laobaitv.net"
+    },
+    {
+        "id": "iptv.bililive",
+        "name": "哔哩直播",
+        "desc": "IPTV",
+        "type": "iptv",
+        "icon": "https://cdn.9228.eu/tv.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "ua": "okHttp/Mod-1.4.0.0",
+        "endpoint": "https://sub.ottiptv.cc/bililive.m3u"
+    },
+    {
+        "id": "iptv.huyalive",
+        "name": "虎牙直播",
+        "desc": "IPTV",
+        "type": "iptv",
+        "icon": "https://cdn.9228.eu/tv.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "ua": "okHttp/Mod-1.4.0.0",
+        "endpoint": "https://sub.ottiptv.cc/huyayqk.m3u"
+    },
+    {
+        "id": "iptv.douyulive",
+        "name": "斗鱼直播",
+        "desc": "IPTV",
+        "type": "iptv",
+        "icon": "https://cdn.9228.eu/tv.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "ua": "okHttp/Mod-1.4.0.0",
+        "endpoint": "https://sub.ottiptv.cc/douyuyqk.m3u"
+    },
+    {
+        "id": "iptv.yslunbo",
+        "name": "影视轮播",
+        "desc": "IPTV",
+        "type": "iptv",
+        "icon": "https://cdn.9228.eu/tv.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "ua": "okHttp/Mod-1.4.0.0",
+        "endpoint": "https://sub.ottiptv.cc/yylunbo.m3u"
+    },
+    {
+        "id": "iptv.Movie",
+        "name": "IPTV",
+        "desc": "IPTV",
+        "type": "iptv",
+        "icon": "https://cdn.9228.eu/tv.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://cdn.jsdelivr.net/gh/piaoranyuyun/Hawk-Player@refs/heads/main/Movie"
+    },
+    {
+        "id": "cat",
+        "name": "王二小1",
+        "desc": "cat",
+        "type": "cat-paw-open",
+	    "icon": "https://cdn.9228.eu/cat.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://9280.kstore.space/cat/index.js.md5"
+    },
+    {
+        "id": "cat2",
+        "name": "王二小2",
+        "desc": "cat",
+        "type": "cat-paw-open",
+		"icon": "https://cdn.9228.eu/cat.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5"
+    },
+	{
+        "id": "cat3",
+        "name": "真心",
+        "desc": "cat",
+        "type": "cat-paw-open",
+		"icon": "https://cdn.9228.eu/cat.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://a:b@catpaw.gendago.cc/index.js.md5"
+    },
+    {
+        "id": "cat4",
+        "name": "沐辰",
+        "desc": "cat",
+        "type": "cat-paw-open",
+		"icon": "https://cdn.9228.eu/cat.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js.md5"
+    },
+    {
+        "id": "cat5",
+        "name": "雪乃源1",
+        "desc": "cat",
+        "type": "cat-paw-open",
+		"icon": "https://cdn.9228.eu/cat.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://9764.kstore.vip/xuenai/catvod/index.js.md5"
+    },
+    {
+        "id": "cat6",
+        "name": "十八湾",
+        "desc": "cat",
+        "type": "cat-paw-open",
+	    "icon": "https://cdn.9228.eu/cat.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://17095.kstore.space/index.js.md5"
+    },
+    {
+        "id": "cat7",
+        "name": "雪乃源2",
+        "desc": "cat",
+        "type": "cat-paw-open",
+		"icon": "https://cdn.9228.eu/cat.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://ghfast.top/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/xuenai/index.js.md5"
+    },
+    {
+        "id": "cat8",
+        "name": "Lmentor",
+        "desc": "cat",
+        "type": "cat-paw-open",
+		"icon": "https://cdn.9228.eu/cat.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://ghfast.top/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/lmentor/index.js.md5"
+    },
+    {
+        "id": "proxy",
+        "name": "Proxy",
+        "desc": "Proxy video stream",
+        "type": "proxy",
+		"icon": "https://cdn.9228.eu/proxy.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-16T10:45:00Z",
+        "api_password": "HAWKAPP",
+        "rules": [
+            {
+                "id": "csp_iyftv",
+                "proxy": true,
+                "hls": true
+            },
+            {
+                "id": "csp_miss",
+                "proxy": true,
+                "hls": true
+            },
+            {
+                "id": "csp_apple",
+                "proxy": true,
+                "hls": true
+            },
+            {
+                "id": "csp_xiaohys",
+                "proxy": true,
+                "hls": true
+            },
+            {
+                "id": "csp_jpyy",
+                "proxy": true,
+                "hls": true
+            },
+            {
+                "id": "csp_duboku",
+                "proxy": true,
+                "hls": true
+            },
+            {
+                "id": "csp_Olevod",
+                "proxy": true
+            }
+        ],
+        "endpoint": "https://ddxpxchjmokh.us-west-1.clawcloudrun.com"
     }
 ]
